@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="BaseCoat">#82e7ed</color>
+    <color name="TopCoat">#07889b</color>
+    <color name="lastLayer">#e37222</color>
+    <color name="nextCoat">#62b7be</color>
+
+</resources>
